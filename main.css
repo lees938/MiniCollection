@@ -1,6 +1,7 @@
 
 body {
     font-family: Arial;
+    background-color: #a8e5ab;
 }
 
 .cake-container {
@@ -26,4 +27,21 @@ body {
 
 .from.active {
     display: block;
+}
+
+h1 {
+    font-family: 'Tropikal';
+    margin: 2rem;
+    font-size: 4rem;
+    color: #427468;
+}
+
+h2 {
+    font-family: 'Tropikal';
+    color: #5c8072;
+}
+
+p {
+    font-family: 'Tropikal';
+    color: #427468;
 }

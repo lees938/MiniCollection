@@ -71,7 +71,7 @@ function consoleLogCakes() {
       document.querySelector(".container").append(cakeContainer);
 
       //adding 1rst column (bakery)
-      var cakeBakery = document.createElement("h1");
+      var cakeBakery = document.createElement("h2");
       cakeBakery.classList.add("bakery");
       cakeBakery.innerText = cake.fields.bakery;
       cakeContainer.append(cakeBakery);
