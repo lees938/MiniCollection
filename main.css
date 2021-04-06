@@ -9,6 +9,7 @@ body {
     border: 1px solid black;
     border-radius: 25px;
     margin: 2rem;
+    background-color: #C9F7D9;
 }
 
 .pix {
@@ -44,4 +45,11 @@ h2 {
 p {
     font-family: 'Tropikal';
     color: #427468;
+}
+
+p2 {
+    font-family: 'Colgent';
+    color: #427468;
+    margin: 2rem;
+    font-size: 2rem;
 }
