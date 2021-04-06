@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial;
+}
+
+.cake-container {
+    padding: 1rem;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+.pix {
+    width: 100%;
+    height: auto;
+    display: none;
+}
+
+.pix.active {
+    display: block;
+}
+
+.from {
+    display: none;
+}
+
+.from.active {
+    display: block;
+}
